@@ -10,9 +10,9 @@ permalink: /rutina-swipe/privacidad.html
 
 ## 1. Responsable y contacto
 
-El responsable es CAFETERIA PASTELERIA DULCE RINCON, S.L., que presenta sus aplicaciones bajo el nombre comercial Dtres Interactive.
+El responsable del tratamiento de los datos de Rutina Swipe es Julio Atencia Muyor, que publica sus aplicaciones bajo el nombre de desarrollador D,tres Interactive.
 
-Dirección: Avda. Carlos III, n.º 8, 04740 Roquetas de Mar, Almería, España.
+Localidad: Roquetas de Mar, Almería, España.
 
 Contacto de privacidad y soporte: [dtresinteractive@gmail.com](mailto:dtresinteractive@gmail.com).
 
@@ -40,7 +40,7 @@ PRO es una compra de pago único gestionada por Google Play. El precio aplicable
 
 Google gestiona el pago y sus datos de facturación. Rutina Swipe no recibe el número completo de tu tarjeta ni tus credenciales de pago. La aplicación recibe información de la compra, como el producto, su estado y los identificadores o comprobantes necesarios para reconocer, verificar y restaurar el acceso. Guarda localmente el comprobante verificado para conservar el acceso reconocido cuando no hay conexión.
 
-Estos datos se utilizan para prestar el acceso adquirido, gestionar su restauración y evitar activaciones no válidas. La base jurídica de la gestión del acceso es la ejecución del servicio solicitado. No enviamos los comprobantes a un servidor propio de Dtres Interactive. Google trata los datos de compra conforme a sus condiciones y política de privacidad.
+Estos datos se utilizan para prestar el acceso adquirido, gestionar su restauración y evitar activaciones no válidas. La base jurídica de la gestión del acceso es la ejecución del servicio solicitado. No enviamos los comprobantes a un servidor propio de D,tres Interactive. Google trata los datos de compra conforme a sus condiciones y política de privacidad.
 
 ### 2.3. Proveedores y tratamiento internacional
 
@@ -60,7 +60,7 @@ La información de las aplicaciones disponibles se consulta mediante Android par
 
 Las rutinas se almacenan en preferencias privadas de la aplicación. Las imágenes personalizadas se procesan en el dispositivo y se guarda una copia recortada en su almacenamiento interno.
 
-Estos datos de configuración no se envían a servidores de Dtres Interactive. La lista de aplicaciones seleccionadas y las imágenes personalizadas no se proporcionan por nuestro código a AdMob ni a Google Play Billing.
+Estos datos de configuración no se envían a servidores de D,tres Interactive. La lista de aplicaciones seleccionadas y las imágenes personalizadas no se proporcionan por nuestro código a AdMob ni a Google Play Billing.
 
 ## 4. Permisos y funcionamiento
 
@@ -86,7 +86,7 @@ Para eliminar conjuntamente los datos locales, incluidas las imágenes internas,
 
 La aplicación tiene desactivada la copia de seguridad automática mediante su configuración `allowBackup`. Las transferencias entre dispositivos pueden depender también de Android y del fabricante.
 
-Dtres Interactive no dispone de una copia remota de las rutinas para recuperarlas. Borrar los datos locales elimina también las preferencias de privacidad y la copia local del comprobante PRO, pero no cancela ni reembolsa la compra de Google Play. El acceso puede recuperarse mediante Google Play con la cuenta que lo adquirió. Desinstalar la app no elimina los registros que Google conserve conforme a sus propias políticas; estos se gestionan mediante sus controles de cuenta y privacidad.
+D,tres Interactive no dispone de una copia remota de las rutinas para recuperarlas. Borrar los datos locales elimina también las preferencias de privacidad y la copia local del comprobante PRO, pero no cancela ni reembolsa la compra de Google Play. El acceso puede recuperarse mediante Google Play con la cuenta que lo adquirió. Desinstalar la app no elimina los registros que Google conserve conforme a sus propias políticas; estos se gestionan mediante sus controles de cuenta y privacidad.
 
 ## 6. Consultas de soporte
 
